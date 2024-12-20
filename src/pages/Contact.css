@@ -1,0 +1,71 @@
+/* General container styling */
+.contact-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  /* Form Styling */
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .input-field {
+    margin-bottom: 20px;
+  }
+  
+  .input-field label {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 8px;
+    display: block;
+  }
+  
+  .input-field input,
+  .input-field textarea {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  .input-field input:focus,
+  .input-field textarea:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+  
+  .input-field textarea {
+    height: 150px;
+    resize: vertical;
+  }
+  
+  /* Submit Button */
+  .submit-btn {
+    padding: 15px;
+    background-color: #007bff;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .submit-btn:hover {
+    background-color: #0056b3;
+  }
+  
