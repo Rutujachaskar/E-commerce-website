@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# E-commerce-website
+As a part of internship I am assigned a task to have front-end completed by 22nd of December,2024. Today, I will be posting my UI for Shivshambhu Mobile Shopee 
+For frontend I have basically used react js with prior knowledge of html,css and javascript.
+>>>>>>> 03c1245e1039ce03a2395c42c3b707098a479916
